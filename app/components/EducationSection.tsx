@@ -30,7 +30,9 @@ const education = [
     achievements: [
       "Science Olympiad Winner",
     ],
-    courses: ["Physics", "Chemistry", "Mathematics", "Computer Science", "English"]
+    courses: ["Physics", "Chemistry", "Mathematics", "Computer Science", "English"],
+color:"blue"
+
   }
 ];
 
